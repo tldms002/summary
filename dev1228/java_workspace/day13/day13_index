@@ -1,0 +1,38 @@
+day13 순서
+
+
+1. MyRedPenV4.java - day12 프로젝트 quiz 패키지 
+2. HashMapTest.java
+3. TodayMenu.java
+
+4. 영한 단어사전을 Map을 이용하여 구현합니다.
+MyDictionary.java
+*실행화면*
+----------------------------------------------
+선택기능 1.단어저장 2.단어검색 3.단어장보기 4.프로그램 끝내기
+
+선택 ->1
+
+English ->milk
+Korean -> 우유
+
+선택 -> 2
+Korean -> 우유
+단어장에 검색했습니다. -> milk
+
+선택 ->1
+English->apple
+Korean -> 사과
+
+선택 ->3
+{apple: 사과 , milk : 우유}
+
+<<정리>> 데이터를 저장하기 위해서 기본형 변수 -> 배열 -> 클래스의 필드 -> ArrayList -> HashMap 순서로 연습했습니다.
+
+5. 추상클래스 연습 : review 패키지는 day11 프로젝트와 동일합니다.(복습용)
+
+1)Ashape.java
+2)ATriangle.java
+3)ASquare.java
+4)AbstractTest.java
+5)AbstractTest2.java
